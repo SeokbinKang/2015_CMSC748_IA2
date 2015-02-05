@@ -31,7 +31,9 @@ Once you have downloaded all project files, you can simply open files with their
 Data Format
 -----
 	The communication between Arduino and Processing is done by Serial communication. 
+
 	The format is following
+	
 	 "CMSC838IA2  numberofAnalogData  numberofDigitalData  Analog0  Analog1  ...  Digital0  Digital1..." 
 	 (double-spaced)
 
