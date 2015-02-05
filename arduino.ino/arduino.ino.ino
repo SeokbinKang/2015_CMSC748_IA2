@@ -8,7 +8,7 @@ int analoginPin2=1;
 int analoginPin3=2;
 
 
-int filterSlideLowThresh=280;
+int filterSlideLowThresh=100;
 void setup()  {
   // nothing happens in setup
   Serial.begin(9600);
