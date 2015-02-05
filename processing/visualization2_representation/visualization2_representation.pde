@@ -1,5 +1,5 @@
 //------------------------------------------------------------------------------
-//
+// Project : Analog/Digital signal visualization with Fluid dynamics
 // author: Seokbin Kang
 // date: 2/4/2015
 //

@@ -1,5 +1,6 @@
- // Analog, Digital Oscilloscope
- 
+ // Project : Analog, Digital Oscilloscope
+ // Author: Seokbin Kang
+//  Date: 2/4/2015
  // This program takes input from serial port and display analog/digital signals on the screen
  // The serial massage format : "CMSC838IA2 numberofAnalogData numberofDigitalData Analog0 Analog1 ... Digital0 Digital1..."
  
