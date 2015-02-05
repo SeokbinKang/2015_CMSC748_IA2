@@ -1,4 +1,4 @@
-# 2015_CMSC748_IA2 , Digital/Analog Sensors(Arduino) + Visualizations(Processing)
+# Digital/Analog Sensors(Arduino) + Visualizations(Processing)
 =====
 This project explores the basic of Arduino and visualization of analog and digtal signals from various sensors.
 The repository consists of 3 programs following. 
