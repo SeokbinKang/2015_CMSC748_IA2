@@ -38,6 +38,9 @@ int mLastReset=0;
 public void setup() {
   window_size_x=1200;
   window_size_y=900;
+  if (frame != null) {
+    frame.setResizable(true);
+  }
   if ( CPU_GPU == 0 ){
     size(window_size_x, window_size_y, GLConstants.GLGRAPHICS);
   }
